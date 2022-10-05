@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32421.90
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication21", "WebApplication21.csproj", "{FE46FB10-EF22-48CF-A5D5-A82553D982B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Layer", "..\Data_Layer\Data_Layer.csproj", "{4FC1EEBB-CEDC-4969-BE25-1235E2CA0FBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FE46FB10-EF22-48CF-A5D5-A82553D982B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE46FB10-EF22-48CF-A5D5-A82553D982B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE46FB10-EF22-48CF-A5D5-A82553D982B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC1EEBB-CEDC-4969-BE25-1235E2CA0FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC1EEBB-CEDC-4969-BE25-1235E2CA0FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC1EEBB-CEDC-4969-BE25-1235E2CA0FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC1EEBB-CEDC-4969-BE25-1235E2CA0FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
